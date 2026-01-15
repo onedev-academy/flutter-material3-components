@@ -11,7 +11,7 @@
 ```dart
 TextField(
   decoration: const InputDecoration(
-    labelText: "Name",
+    labelText: "Label",
     hintText: "Enter filled text field",
   ),
 );
