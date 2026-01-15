@@ -3,7 +3,7 @@
 
 ---
 
-## 🎨 Design
+## Design
 ![Elevate Button](../images/elevated_button.png)
 ![Filled Button](../images/filled_button.png)
 ![Filled Tonal Button](../images/filled_tonal_button.png)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🔹 Elevated Button
+## Elevated Button
 ```dart
 ElevatedButton(
   onPressed: () {},
@@ -21,7 +21,7 @@ ElevatedButton(
 
 ---
 
-## 🔹 Filled Button
+## Filled Button
 ```dart
 FilledButton(
   onPressed: () {},
@@ -30,7 +30,7 @@ FilledButton(
 
 ---
 
-## 🔹 Filled Tonal Button
+## Filled Tonal Button
 ```dart
 FilledButton.tonal(
   onPressed: () {},
@@ -39,7 +39,7 @@ FilledButton.tonal(
 
 ---
 
-## 🔹 Outlined Button
+## Outlined Button
 ```dart
 OutlinedButton(
   onPressed: () {},
@@ -48,7 +48,7 @@ OutlinedButton(
 
 ---
 
-## 🔹 Text Button
+## Text Button
 ```dart
 TextButton(
   onPressed: () {},
